@@ -1,4 +1,4 @@
 # Approaching Medellín as a complex urban system: the case of a tropical high Andean city
 
-##Abstract
+## Abstract
 We evaluate the structural complexity that underlies the spatial configuration of urban state variables in the city of Medellín. We use the notion of urban fractal for describing the general organization mode of the urban plane in terms of movement and mobility, and the fractal dimension for quantifying the dynamic affinity among different urban state variables. Also, we use Batty's spatial entropy to quantify how far the state variables are from the entropic equilibrium. Finally,  the contrasting differences in the distribution of urban variables in the territory are displayed by diffusive cartograms at the district scale pooling neighborhoods with similar characteristics. Our results evidence the tension between the organic and the planned Medellín, ruled by physiographic, environmental, social, functional, and economic aspects.
